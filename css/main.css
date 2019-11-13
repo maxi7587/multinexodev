@@ -739,6 +739,9 @@ table tr td img {
   white-space: normal;
   display: inline-block; }
 
+a.code, a.post, a.get, a.patch, a.delete {
+  text-decoration: none; }
+
 div pre {
   margin: 0; }
 

@@ -41,14 +41,14 @@
 <meta property="og:url" content="https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/" />
 <meta property="og:site_name" content="Multinexo Developers" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-11-13T09:45:08-03:00" />
+<meta property="article:published_time" content="2019-11-13T19:53:42+00:00" />
 <script type="application/ld+json">
-{"description":"Documentación de la API de Multinexo. Sistema online de gestión para pequeñas y medianas empresas. Impresora fiscal, factura electrónica, stock, cuentas corrientes, multiusuario, ¡y más!","@type":"BlogPosting","headline":"Quotations","dateModified":"2019-11-13T09:45:08-03:00","datePublished":"2019-11-13T09:45:08-03:00","url":"https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/","mainEntityOfPage":{"@type":"WebPage","@id":"https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/"},"@context":"https://schema.org"}</script>
+{"description":"Documentación de la API de Multinexo. Sistema online de gestión para pequeñas y medianas empresas. Impresora fiscal, factura electrónica, stock, cuentas corrientes, multiusuario, ¡y más!","@type":"BlogPosting","headline":"Quotations","dateModified":"2019-11-13T19:53:42+00:00","datePublished":"2019-11-13T19:53:42+00:00","url":"https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/","mainEntityOfPage":{"@type":"WebPage","@id":"https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-    <link rel="canonical" href="/multinexodev/docs/0.0.23/resources/quotations/">
-    <link rel="alternate" type="application/rss+xml" title="Multinexo Developers" href="/multinexodev/feed.xml" />
+    <link rel="canonical" href="https://maxi7587.github.io/multinexodev/docs/0.0.23/resources/quotations/">
+    <link rel="alternate" type="application/rss+xml" title="Multinexo Developers" href="https://maxi7587.github.io/multinexodev/feed.xml" />
 </head>
 
 
@@ -57,10 +57,10 @@
         <header class="mdl-layout__header layout-row layout-align-space-between-center mdl-color--white mdl-color-text--grey-700">
     <div class="mdl-layout__header-row flex">
         <div class="logo-header">
-            <a href="/multinexodev/"><img src="/multinexodev/img/multinexo_logotype_colored.svg" alt=""></a>
+            <a href="/"><img src="https://maxi7587.github.io" alt=""></a>
         </div>
         <nav class="mdl-navigation mdl-layout--large-screen-only links">
-          <a href="/multinexodev/">Home</a>
+          <a href="/">Home</a>
           <a href="/multinexodev/docs/0.0.23/resources/products/">API</a>
           <a href="/multinexodev/styleguide/intro">Guía de estilo</a>
           <!--  descomentar cuando esté listo el blog -->
@@ -98,9 +98,7 @@
 
 
         
-          <span></span>
-
-<div class="mdl-layout__drawer">
+          <div class="mdl-layout__drawer">
   
 
   <nav class="mdl-navigation">
@@ -474,7 +472,7 @@
 
 
 
-  <section><span class=get >GET </span>http://api.multinexo.com/v1/companies/{company_id}/quotations</section>
+  <section><span class=get >GET </span>companies/{company_id}/quotations</section>
 
 
 
@@ -489,6 +487,9 @@
           <div>
             <span class="code">create, read, update</span>
             
+              <span class="code">numeric</span>
+            
+            
             
           </div>
         </dd>
@@ -499,6 +500,9 @@
         <dd>
           <div>
             <span class="code">create, read, update</span>
+            
+              <span class="code">numeric</span>
+            
             
             
           </div>
@@ -512,6 +516,7 @@
             <span class="code">create, read, update</span>
             
             
+            
           </div>
         </dd>
       
@@ -521,6 +526,9 @@
         <dd>
           <div>
             <span class="code">create, read, update</span>
+            
+              <span class="code">boolean</span>
+            
             
             
           </div>
@@ -533,6 +541,9 @@
           <div>
             <span class="code">create, read, update</span>
             
+              <span class="code">numeric</span>
+            
+            
             
           </div>
         </dd>
@@ -543,6 +554,9 @@
         <dd>
           <div>
             <span class="code">read</span>
+            
+              <span class="code">numeric</span>
+            
             
             
           </div>
@@ -556,6 +570,7 @@
             <span class="code">read</span>
             
             
+            
           </div>
         </dd>
       
@@ -565,6 +580,7 @@
         <dd>
           <div>
             <span class="code">read</span>
+            
             
             
           </div>
@@ -577,6 +593,9 @@
           <div>
             <span class="code">create, read, update</span>
             
+              <span class="code">in [quotation]</span>
+            
+            
             
           </div>
         </dd>
@@ -587,6 +606,14 @@
         <dd>
           <div>
             <span class="code">create, read, update</span>
+            
+              <span class="code">in [sales, purchases]</span>
+            
+            
+              <a class="code" href="/multinexodev/docs/0.0.23/EnumFilter">
+                EnumFilter
+              </a>
+              <span class="code">Sortable</span>
             
             
           </div>
@@ -599,6 +626,14 @@
           <div>
             <span class="code">create, read, update</span>
             
+              <span class="code">in [confirmed, draft]</span>
+            
+            
+              <a class="code" href="/multinexodev/docs/0.0.23/EnumFilter">
+                EnumFilter
+              </a>
+              <span class="code">Sortable</span>
+            
             
           </div>
         </dd>
@@ -609,6 +644,14 @@
         <dd>
           <div>
             <span class="code">create, read, update</span>
+            
+              <span class="code">integer</span>
+            
+            
+              <a class="code" href="/multinexodev/docs/0.0.23/NumberFilter">
+                NumberFilter
+              </a>
+              <span class="code">Sortable</span>
             
             
           </div>
@@ -621,6 +664,14 @@
           <div>
             <span class="code">create, read, update</span>
             
+              <span class="code">integer</span>
+            
+            
+              <a class="code" href="/multinexodev/docs/0.0.23/NumberFilter">
+                NumberFilter
+              </a>
+              <span class="code">Sortable</span>
+            
             
           </div>
         </dd>
@@ -631,6 +682,12 @@
         <dd>
           <div>
             <span class="code">read</span>
+            
+            
+              <a class="code" href="/multinexodev/docs/0.0.23/EmissionDateFilter">
+                EmissionDateFilter
+              </a>
+              <span class="code">Sortable</span>
             
             
           </div>
@@ -746,6 +803,15 @@
 
 
 
+    
+    
+    
+        <h4>Filter example</h4>
+        <section>
+          companies/{company_id}/quotations?filter[section]=someValue
+        </section>
+    
+
 
 
 
@@ -755,12 +821,12 @@
   {
     data: {
       type: quotations,
-      id: 667,
+      id: 636,
       attributes: {
         net: someValue,
         total: someValue,
         observation: someValue,
-        show_amounts: someValue,
+        show_amounts: true,
         discount_percent: someValue,
         discount_amount: someValue,
         pdf_url: someValue,
@@ -774,32 +840,32 @@
         },
       relationships: { 
          currency:{
-          id: 386,
+          id: 888,
           type: currency
         },
       
          entity:{
-          id: 973,
+          id: 396,
           type: entity
         },
       
          seller:{
-          id: 929,
+          id: 305,
           type: seller
         },
       
          orders:{
-          id: 339,
+          id: 709,
           type: orders
         },
       
          invoices:{
-          id: 904,
+          id: 151,
           type: invoices
         },
       
          details:{
-          id: 366,
+          id: 850,
           type: details
         }
       }
@@ -819,13 +885,13 @@
     
 
     <span class=get >GET </span>
-    http://api.multinexo.com/v1/companies/{company_id}/quotations/&#123resource_id&#125
+    companies/{company_id}/quotations/&#123resource_id&#125
   </p>
   
   <p>
     
       <span class="post">POST</span>
-      http://api.multinexo.com/v1/companies/{company_id}/quotations/
+      companies/{company_id}/quotations/
     
   </p>
 </section>
@@ -849,8 +915,8 @@
         <footer class="footer">
     <div class="container">
         <p class="text-center">
-            Multinexo 2019 |
-            Powered by <a href="https://multinexo.com/">Multinexo</a>
+             2019 |
+            Powered by <a href=""></a>
         </p>
         <!-- <p class="text-muted">Place sticky footer content here.</p> -->
     </div>
