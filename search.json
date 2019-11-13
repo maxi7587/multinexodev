@@ -3,769 +3,769 @@
     
     {
       "title": "Autenticación",
-      "url": "/docs/0.0.23/autentication/"
+      "url": "/multinexodev/docs/0.0.23/autentication/"
     },
   
     
     {
       "title": "Lector de códigos de barra",
-      "url": "/docs/0.0.23/hardware/lector-de-codigos-de-barra/"
+      "url": "/multinexodev/docs/0.0.23/hardware/lector-de-codigos-de-barra/"
     },
   
     
     {
       "title": "Behaviors",
-      "url": "/docs/0.0.23/resources/behaviors/"
+      "url": "/multinexodev/docs/0.0.23/resources/behaviors/"
     },
   
     
     {
       "title": "Cashier Balances",
-      "url": "/docs/0.0.23/resources/cashier_balances/"
+      "url": "/multinexodev/docs/0.0.23/resources/cashier_balances/"
     },
   
     
     {
       "title": "Cashier Entries",
-      "url": "/docs/0.0.23/resources/cashier_entries/"
+      "url": "/multinexodev/docs/0.0.23/resources/cashier_entries/"
     },
   
     
     {
       "title": "Payment Methods",
-      "url": "/docs/0.0.23/resources/payment_methods/"
+      "url": "/multinexodev/docs/0.0.23/resources/payment_methods/"
     },
   
     
     {
       "title": "Physicalpos",
-      "url": "/docs/0.0.23/resources/physicalpos/"
+      "url": "/multinexodev/docs/0.0.23/resources/physicalpos/"
     },
   
     
     {
       "title": "Transactions",
-      "url": "/docs/0.0.23/resources/transactions/"
+      "url": "/multinexodev/docs/0.0.23/resources/transactions/"
     },
   
     
     {
       "title": "Companies",
-      "url": "/docs/0.0.23/resources/companies/"
+      "url": "/multinexodev/docs/0.0.23/resources/companies/"
     },
   
     
     {
       "title": "Company Payments",
-      "url": "/docs/0.0.23/resources/company_payments/"
+      "url": "/multinexodev/docs/0.0.23/resources/company_payments/"
     },
   
     
     {
       "title": "Discounts",
-      "url": "/docs/0.0.23/resources/discounts/"
+      "url": "/multinexodev/docs/0.0.23/resources/discounts/"
     },
   
     
     {
       "title": "Options",
-      "url": "/docs/0.0.23/resources/options/"
+      "url": "/multinexodev/docs/0.0.23/resources/options/"
     },
   
     
     {
       "title": "Params",
-      "url": "/docs/0.0.23/resources/params/"
+      "url": "/multinexodev/docs/0.0.23/resources/params/"
     },
   
     
     {
       "title": "Plans",
-      "url": "/docs/0.0.23/resources/plans/"
+      "url": "/multinexodev/docs/0.0.23/resources/plans/"
     },
   
     
     {
       "title": "Details",
-      "url": "/docs/0.0.23/resources/details/"
+      "url": "/multinexodev/docs/0.0.23/resources/details/"
     },
   
     
     {
       "title": "Documents",
-      "url": "/docs/0.0.23/resources/documents/"
+      "url": "/multinexodev/docs/0.0.23/resources/documents/"
     },
   
     
     {
       "title": "Invoices",
-      "url": "/docs/0.0.23/resources/invoices/"
+      "url": "/multinexodev/docs/0.0.23/resources/invoices/"
     },
   
     
     {
       "title": "No Fiscal Documents",
-      "url": "/docs/0.0.23/resources/no_fiscal_documents/"
+      "url": "/multinexodev/docs/0.0.23/resources/no_fiscal_documents/"
     },
   
     
     {
       "title": "Orders",
-      "url": "/docs/0.0.23/resources/orders/"
+      "url": "/multinexodev/docs/0.0.23/resources/orders/"
     },
   
     
     {
       "title": "Quotations",
-      "url": "/docs/0.0.23/resources/quotations/"
+      "url": "/multinexodev/docs/0.0.23/resources/quotations/"
     },
   
     
     {
       "title": "Receipts",
-      "url": "/docs/0.0.23/resources/receipts/"
+      "url": "/multinexodev/docs/0.0.23/resources/receipts/"
     },
   
     
     {
       "title": "Revenues",
-      "url": "/docs/0.0.23/resources/revenues/"
+      "url": "/multinexodev/docs/0.0.23/resources/revenues/"
     },
   
     
     {
       "title": "Entities",
-      "url": "/docs/0.0.23/resources/entities/"
+      "url": "/multinexodev/docs/0.0.23/resources/entities/"
     },
   
     
     {
       "title": "Identifications",
-      "url": "/docs/0.0.23/resources/identifications/"
+      "url": "/multinexodev/docs/0.0.23/resources/identifications/"
     },
   
     
     {
       "title": "Responsibilities",
-      "url": "/docs/0.0.23/resources/responsibilities/"
+      "url": "/multinexodev/docs/0.0.23/resources/responsibilities/"
     },
   
     
     {
       "title": "Company External Apps",
-      "url": "/docs/0.0.23/resources/company_external_apps/"
+      "url": "/multinexodev/docs/0.0.23/resources/company_external_apps/"
     },
   
     
     {
       "title": "External Apps",
-      "url": "/docs/0.0.23/resources/external_apps/"
+      "url": "/multinexodev/docs/0.0.23/resources/external_apps/"
     },
   
     
     {
       "title": "Closurereceipts",
-      "url": "/docs/0.0.23/resources/closurereceipts/"
+      "url": "/multinexodev/docs/0.0.23/resources/closurereceipts/"
     },
   
     
     {
       "title": "Fiscalbooks",
-      "url": "/docs/0.0.23/resources/fiscalbooks/"
+      "url": "/multinexodev/docs/0.0.23/resources/fiscalbooks/"
     },
   
     
     {
       "title": "Fiscalpos",
-      "url": "/docs/0.0.23/resources/fiscalpos/"
+      "url": "/multinexodev/docs/0.0.23/resources/fiscalpos/"
     },
   
     
     {
       "title": "Cost Assignation Percents",
-      "url": "/docs/0.0.23/resources/cost_assignation_percents/"
+      "url": "/multinexodev/docs/0.0.23/resources/cost_assignation_percents/"
     },
   
     
     {
       "title": "Cost Assignation Strategies",
-      "url": "/docs/0.0.23/resources/cost_assignation_strategies/"
+      "url": "/multinexodev/docs/0.0.23/resources/cost_assignation_strategies/"
     },
   
     
     {
       "title": "Cost Centers",
-      "url": "/docs/0.0.23/resources/cost_centers/"
+      "url": "/multinexodev/docs/0.0.23/resources/cost_centers/"
     },
   
     
     {
       "title": "Cost Reports",
-      "url": "/docs/0.0.23/resources/cost_reports/"
+      "url": "/multinexodev/docs/0.0.23/resources/cost_reports/"
     },
   
     
     {
       "title": "Costs",
-      "url": "/docs/0.0.23/resources/costs/"
+      "url": "/multinexodev/docs/0.0.23/resources/costs/"
     },
   
     
     {
       "title": "Notifications",
-      "url": "/docs/0.0.23/resources/notifications/"
+      "url": "/multinexodev/docs/0.0.23/resources/notifications/"
     },
   
     
     {
       "title": "Categories",
-      "url": "/docs/0.0.23/resources/categories/"
+      "url": "/multinexodev/docs/0.0.23/resources/categories/"
     },
   
     
     {
       "title": "Futureprices",
-      "url": "/docs/0.0.23/resources/futureprices/"
+      "url": "/multinexodev/docs/0.0.23/resources/futureprices/"
     },
   
     
     {
       "title": "Gondolaprices",
-      "url": "/docs/0.0.23/resources/gondolaprices/"
+      "url": "/multinexodev/docs/0.0.23/resources/gondolaprices/"
     },
   
     
     {
       "title": "Inventories",
-      "url": "/docs/0.0.23/resources/inventories/"
+      "url": "/multinexodev/docs/0.0.23/resources/inventories/"
     },
   
     
     {
       "title": "Measures",
-      "url": "/docs/0.0.23/resources/measures/"
+      "url": "/multinexodev/docs/0.0.23/resources/measures/"
     },
   
     
     {
       "title": "Meli Categories",
-      "url": "/docs/0.0.23/resources/meli_categories/"
+      "url": "/multinexodev/docs/0.0.23/resources/meli_categories/"
     },
   
     
     {
       "title": "Mercadolibre Attributes",
-      "url": "/docs/0.0.23/resources/mercadolibre_attributes/"
+      "url": "/multinexodev/docs/0.0.23/resources/mercadolibre_attributes/"
     },
   
     
     {
       "title": "Pricelist Categories",
-      "url": "/docs/0.0.23/resources/pricelist_categories/"
+      "url": "/multinexodev/docs/0.0.23/resources/pricelist_categories/"
     },
   
     
     {
       "title": "Pricelist Products",
-      "url": "/docs/0.0.23/resources/pricelist_products/"
+      "url": "/multinexodev/docs/0.0.23/resources/pricelist_products/"
     },
   
     
     {
       "title": "Pricelist Reports",
-      "url": "/docs/0.0.23/resources/pricelist_reports/"
+      "url": "/multinexodev/docs/0.0.23/resources/pricelist_reports/"
     },
   
     
     {
       "title": "Pricelists",
-      "url": "/docs/0.0.23/resources/pricelists/"
+      "url": "/multinexodev/docs/0.0.23/resources/pricelists/"
     },
   
     
     {
       "title": "Product Products",
-      "url": "/docs/0.0.23/resources/product_products/"
+      "url": "/multinexodev/docs/0.0.23/resources/product_products/"
     },
   
     
     {
       "title": "Product Supplier",
-      "url": "/docs/0.0.23/resources/product_supplier/"
+      "url": "/multinexodev/docs/0.0.23/resources/product_supplier/"
     },
   
     
     {
       "title": "Products",
-      "url": "/docs/0.0.23/resources/products/"
+      "url": "/multinexodev/docs/0.0.23/resources/products/"
     },
   
     
     {
       "title": "Publications",
-      "url": "/docs/0.0.23/resources/publications/"
+      "url": "/multinexodev/docs/0.0.23/resources/publications/"
     },
   
     
     {
       "title": "Taxes",
-      "url": "/docs/0.0.23/resources/taxes/"
+      "url": "/multinexodev/docs/0.0.23/resources/taxes/"
     },
   
     
     {
       "title": "Currencies",
-      "url": "/docs/0.0.23/resources/currencies/"
+      "url": "/multinexodev/docs/0.0.23/resources/currencies/"
     },
   
     
     {
       "title": "Imports",
-      "url": "/docs/0.0.23/resources/imports/"
+      "url": "/multinexodev/docs/0.0.23/resources/imports/"
     },
   
     
     {
       "title": "Key Values",
-      "url": "/docs/0.0.23/resources/key_values/"
+      "url": "/multinexodev/docs/0.0.23/resources/key_values/"
     },
   
     
     {
       "title": "Messages",
-      "url": "/docs/0.0.23/resources/messages/"
+      "url": "/multinexodev/docs/0.0.23/resources/messages/"
     },
   
     
     {
       "title": "Photos",
-      "url": "/docs/0.0.23/resources/photos/"
+      "url": "/multinexodev/docs/0.0.23/resources/photos/"
     },
   
     
     {
       "title": "Additional Accounts",
-      "url": "/docs/0.0.23/resources/additional_accounts/"
+      "url": "/multinexodev/docs/0.0.23/resources/additional_accounts/"
     },
   
     
     {
       "title": "Company Users",
-      "url": "/docs/0.0.23/resources/company_users/"
+      "url": "/multinexodev/docs/0.0.23/resources/company_users/"
     },
   
     
     {
       "title": "Permission Groups",
-      "url": "/docs/0.0.23/resources/permission_groups/"
+      "url": "/multinexodev/docs/0.0.23/resources/permission_groups/"
     },
   
     
     {
       "title": "Permissions",
-      "url": "/docs/0.0.23/resources/permissions/"
+      "url": "/multinexodev/docs/0.0.23/resources/permissions/"
     },
   
     
     {
       "title": "Preferences",
-      "url": "/docs/0.0.23/resources/preferences/"
+      "url": "/multinexodev/docs/0.0.23/resources/preferences/"
     },
   
     
     {
       "title": "Roles",
-      "url": "/docs/0.0.23/resources/roles/"
+      "url": "/multinexodev/docs/0.0.23/resources/roles/"
     },
   
     
     {
       "title": "Users",
-      "url": "/docs/0.0.23/resources/users/"
+      "url": "/multinexodev/docs/0.0.23/resources/users/"
     },
   
     
     {
       "title": "Autentication",
-      "url": "/docs/autentication/"
+      "url": "/multinexodev/docs/autentication/"
     },
   
     
     {
       "title": "Lector De Codigos De Barra",
-      "url": "/docs/hardware/lector-de-codigos-de-barra/"
+      "url": "/multinexodev/docs/hardware/lector-de-codigos-de-barra/"
     },
   
     
     {
       "title": "Behaviors",
-      "url": "/docs/resources/behaviors/"
+      "url": "/multinexodev/docs/resources/behaviors/"
     },
   
     
     {
       "title": "Cashier Balances",
-      "url": "/docs/resources/cashier_balances/"
+      "url": "/multinexodev/docs/resources/cashier_balances/"
     },
   
     
     {
       "title": "Cashier Entries",
-      "url": "/docs/resources/cashier_entries/"
+      "url": "/multinexodev/docs/resources/cashier_entries/"
     },
   
     
     {
       "title": "Payment Methods",
-      "url": "/docs/resources/payment_methods/"
+      "url": "/multinexodev/docs/resources/payment_methods/"
     },
   
     
     {
       "title": "Physicalpos",
-      "url": "/docs/resources/physicalpos/"
+      "url": "/multinexodev/docs/resources/physicalpos/"
     },
   
     
     {
       "title": "Transactions",
-      "url": "/docs/resources/transactions/"
+      "url": "/multinexodev/docs/resources/transactions/"
     },
   
     
     {
       "title": "Companies",
-      "url": "/docs/resources/companies/"
+      "url": "/multinexodev/docs/resources/companies/"
     },
   
     
     {
       "title": "Company Payments",
-      "url": "/docs/resources/company_payments/"
+      "url": "/multinexodev/docs/resources/company_payments/"
     },
   
     
     {
       "title": "Discounts",
-      "url": "/docs/resources/discounts/"
+      "url": "/multinexodev/docs/resources/discounts/"
     },
   
     
     {
       "title": "Options",
-      "url": "/docs/resources/options/"
+      "url": "/multinexodev/docs/resources/options/"
     },
   
     
     {
       "title": "Params",
-      "url": "/docs/resources/params/"
+      "url": "/multinexodev/docs/resources/params/"
     },
   
     
     {
       "title": "Plans",
-      "url": "/docs/resources/plans/"
+      "url": "/multinexodev/docs/resources/plans/"
     },
   
     
     {
       "title": "Details",
-      "url": "/docs/resources/details/"
+      "url": "/multinexodev/docs/resources/details/"
     },
   
     
     {
       "title": "Documents",
-      "url": "/docs/resources/documents/"
+      "url": "/multinexodev/docs/resources/documents/"
     },
   
     
     {
       "title": "Invoices",
-      "url": "/docs/resources/invoices/"
+      "url": "/multinexodev/docs/resources/invoices/"
     },
   
     
     {
       "title": "No Fiscal Documents",
-      "url": "/docs/resources/no_fiscal_documents/"
+      "url": "/multinexodev/docs/resources/no_fiscal_documents/"
     },
   
     
     {
       "title": "Orders",
-      "url": "/docs/resources/orders/"
+      "url": "/multinexodev/docs/resources/orders/"
     },
   
     
     {
       "title": "Quotations",
-      "url": "/docs/resources/quotations/"
+      "url": "/multinexodev/docs/resources/quotations/"
     },
   
     
     {
       "title": "Receipts",
-      "url": "/docs/resources/receipts/"
+      "url": "/multinexodev/docs/resources/receipts/"
     },
   
     
     {
       "title": "Revenues",
-      "url": "/docs/resources/revenues/"
+      "url": "/multinexodev/docs/resources/revenues/"
     },
   
     
     {
       "title": "Entities",
-      "url": "/docs/resources/entities/"
+      "url": "/multinexodev/docs/resources/entities/"
     },
   
     
     {
       "title": "Identifications",
-      "url": "/docs/resources/identifications/"
+      "url": "/multinexodev/docs/resources/identifications/"
     },
   
     
     {
       "title": "Responsibilities",
-      "url": "/docs/resources/responsibilities/"
+      "url": "/multinexodev/docs/resources/responsibilities/"
     },
   
     
     {
       "title": "Company External Apps",
-      "url": "/docs/resources/company_external_apps/"
+      "url": "/multinexodev/docs/resources/company_external_apps/"
     },
   
     
     {
       "title": "External Apps",
-      "url": "/docs/resources/external_apps/"
+      "url": "/multinexodev/docs/resources/external_apps/"
     },
   
     
     {
       "title": "Closurereceipts",
-      "url": "/docs/resources/closurereceipts/"
+      "url": "/multinexodev/docs/resources/closurereceipts/"
     },
   
     
     {
       "title": "Fiscalbooks",
-      "url": "/docs/resources/fiscalbooks/"
+      "url": "/multinexodev/docs/resources/fiscalbooks/"
     },
   
     
     {
       "title": "Fiscalpos",
-      "url": "/docs/resources/fiscalpos/"
+      "url": "/multinexodev/docs/resources/fiscalpos/"
     },
   
     
     {
       "title": "Cost Assignation Percents",
-      "url": "/docs/resources/cost_assignation_percents/"
+      "url": "/multinexodev/docs/resources/cost_assignation_percents/"
     },
   
     
     {
       "title": "Cost Assignation Strategies",
-      "url": "/docs/resources/cost_assignation_strategies/"
+      "url": "/multinexodev/docs/resources/cost_assignation_strategies/"
     },
   
     
     {
       "title": "Cost Centers",
-      "url": "/docs/resources/cost_centers/"
+      "url": "/multinexodev/docs/resources/cost_centers/"
     },
   
     
     {
       "title": "Cost Reports",
-      "url": "/docs/resources/cost_reports/"
+      "url": "/multinexodev/docs/resources/cost_reports/"
     },
   
     
     {
       "title": "Costs",
-      "url": "/docs/resources/costs/"
+      "url": "/multinexodev/docs/resources/costs/"
     },
   
     
     {
       "title": "Notifications",
-      "url": "/docs/resources/notifications/"
+      "url": "/multinexodev/docs/resources/notifications/"
     },
   
     
     {
       "title": "Categories",
-      "url": "/docs/resources/categories/"
+      "url": "/multinexodev/docs/resources/categories/"
     },
   
     
     {
       "title": "Futureprices",
-      "url": "/docs/resources/futureprices/"
+      "url": "/multinexodev/docs/resources/futureprices/"
     },
   
     
     {
       "title": "Gondolaprices",
-      "url": "/docs/resources/gondolaprices/"
+      "url": "/multinexodev/docs/resources/gondolaprices/"
     },
   
     
     {
       "title": "Inventories",
-      "url": "/docs/resources/inventories/"
+      "url": "/multinexodev/docs/resources/inventories/"
     },
   
     
     {
       "title": "Measures",
-      "url": "/docs/resources/measures/"
+      "url": "/multinexodev/docs/resources/measures/"
     },
   
     
     {
       "title": "Meli Categories",
-      "url": "/docs/resources/meli_categories/"
+      "url": "/multinexodev/docs/resources/meli_categories/"
     },
   
     
     {
       "title": "Mercadolibre Attributes",
-      "url": "/docs/resources/mercadolibre_attributes/"
+      "url": "/multinexodev/docs/resources/mercadolibre_attributes/"
     },
   
     
     {
       "title": "Pricelist Categories",
-      "url": "/docs/resources/pricelist_categories/"
+      "url": "/multinexodev/docs/resources/pricelist_categories/"
     },
   
     
     {
       "title": "Pricelist Products",
-      "url": "/docs/resources/pricelist_products/"
+      "url": "/multinexodev/docs/resources/pricelist_products/"
     },
   
     
     {
       "title": "Pricelist Reports",
-      "url": "/docs/resources/pricelist_reports/"
+      "url": "/multinexodev/docs/resources/pricelist_reports/"
     },
   
     
     {
       "title": "Pricelists",
-      "url": "/docs/resources/pricelists/"
+      "url": "/multinexodev/docs/resources/pricelists/"
     },
   
     
     {
       "title": "Product Products",
-      "url": "/docs/resources/product_products/"
+      "url": "/multinexodev/docs/resources/product_products/"
     },
   
     
     {
       "title": "Product Supplier",
-      "url": "/docs/resources/product_supplier/"
+      "url": "/multinexodev/docs/resources/product_supplier/"
     },
   
     
     {
       "title": "Products",
-      "url": "/docs/resources/products/"
+      "url": "/multinexodev/docs/resources/products/"
     },
   
     
     {
       "title": "Publications",
-      "url": "/docs/resources/publications/"
+      "url": "/multinexodev/docs/resources/publications/"
     },
   
     
     {
       "title": "Taxes",
-      "url": "/docs/resources/taxes/"
+      "url": "/multinexodev/docs/resources/taxes/"
     },
   
     
     {
       "title": "Currencies",
-      "url": "/docs/resources/currencies/"
+      "url": "/multinexodev/docs/resources/currencies/"
     },
   
     
     {
       "title": "Imports",
-      "url": "/docs/resources/imports/"
+      "url": "/multinexodev/docs/resources/imports/"
     },
   
     
     {
       "title": "Key Values",
-      "url": "/docs/resources/key_values/"
+      "url": "/multinexodev/docs/resources/key_values/"
     },
   
     
     {
       "title": "Messages",
-      "url": "/docs/resources/messages/"
+      "url": "/multinexodev/docs/resources/messages/"
     },
   
     
     {
       "title": "Photos",
-      "url": "/docs/resources/photos/"
+      "url": "/multinexodev/docs/resources/photos/"
     },
   
     
     {
       "title": "Additional Accounts",
-      "url": "/docs/resources/additional_accounts/"
+      "url": "/multinexodev/docs/resources/additional_accounts/"
     },
   
     
     {
       "title": "Company Users",
-      "url": "/docs/resources/company_users/"
+      "url": "/multinexodev/docs/resources/company_users/"
     },
   
     
     {
       "title": "Permission Groups",
-      "url": "/docs/resources/permission_groups/"
+      "url": "/multinexodev/docs/resources/permission_groups/"
     },
   
     
     {
       "title": "Permissions",
-      "url": "/docs/resources/permissions/"
+      "url": "/multinexodev/docs/resources/permissions/"
     },
   
     
     {
       "title": "Preferences",
-      "url": "/docs/resources/preferences/"
+      "url": "/multinexodev/docs/resources/preferences/"
     },
   
     
     {
       "title": "Roles",
-      "url": "/docs/resources/roles/"
+      "url": "/multinexodev/docs/resources/roles/"
     },
   
     
     {
       "title": "Users",
-      "url": "/docs/resources/users/"
+      "url": "/multinexodev/docs/resources/users/"
     },
   
 
@@ -773,55 +773,55 @@
     
     {
       "title": "Contenido avanzado u opcional",
-      "url": "/styleguide/avanzado/"
+      "url": "/multinexodev/styleguide/avanzado/"
     },
   
     
     {
       "title": "Botones y links",
-      "url": "/styleguide/botones/"
+      "url": "/multinexodev/styleguide/botones/"
     },
   
     
     {
       "title": "Colores base para el sitio",
-      "url": "/styleguide/colores-base/"
+      "url": "/multinexodev/styleguide/colores-base/"
     },
   
     
     {
       "title": "Colores",
-      "url": "/styleguide/colores/"
+      "url": "/multinexodev/styleguide/colores/"
     },
   
     
     {
       "title": "Iconos",
-      "url": "/styleguide/iconos/"
+      "url": "/multinexodev/styleguide/iconos/"
     },
   
     
     {
       "title": "Guía de estilos",
-      "url": "/styleguide/intro/"
+      "url": "/multinexodev/styleguide/intro/"
     },
   
     
     {
       "title": "Logos más fondos",
-      "url": "/styleguide/logos-mas-fondos/"
+      "url": "/multinexodev/styleguide/logos-mas-fondos/"
     },
   
     
     {
       "title": "Logos",
-      "url": "/styleguide/logos/"
+      "url": "/multinexodev/styleguide/logos/"
     },
   
     
     {
       "title": "Tipografía",
-      "url": "/styleguide/tipografia/"
+      "url": "/multinexodev/styleguide/tipografia/"
     },
   
 
