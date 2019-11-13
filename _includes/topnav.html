@@ -5,10 +5,10 @@
         </div>
         <nav class="mdl-navigation mdl-layout--large-screen-only links">
           <a href="{{ "/" | prepend: site.baseurl }}">Home</a>
-          <a href="{{ "/docs/" | append: site.version | append: "/resources/products/" | prepend: site.baseurl | prepend: site.url }}">API</a>
-          <a href="{{ "/styleguide/intro" | prepend: site.baseurl | prepend: site.url }}">Guía de estilo</a>
+          <a href="{{ "/docs/" | append: site.version | append: "/resources/products/" | prepend: site.baseurl }}">API</a>
+          <a href="{{ "/styleguide/intro" | prepend: site.baseurl }}">Guía de estilo</a>
           <!--  descomentar cuando esté listo el blog -->
-          <!--<a href="{{ site.posts.first.url | prepend: site.baseurl | prepend: site.url }}">Blog</a>-->
+          <!--<a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a>-->
         </nav>
         <div class="mdl-layout-spacer"></div>
     </div>
@@ -30,8 +30,8 @@
 <div class="mdl-layout__drawer mobile_drawer">
   <nav class="mdl-navigation">
     <a class="mdl-navigation__link" href="{{ site.baseurl }}">Home</a>
-    <a class="mdl-navigation__link" href="{{ "/docs/" | append: site.version | append: "/resources/products/" | prepend: site.baseurl | prepend: site.url }}">API</a>
-    <a class="mdl-navigation__link" href="{{ "/styleguide/intro" | prepend: site.baseurl | prepend: site.url }}">Guía de estilo</a>
+    <a class="mdl-navigation__link" href="{{ "/docs/" | append: site.version | append: "/resources/products/" | prepend: site.baseurl }}">API</a>
+    <a class="mdl-navigation__link" href="{{ "/styleguide/intro" | prepend: site.baseurl }}">Guía de estilo</a>
     <form class="mdl-navigation__link" id="search-form">
       <div class="mdl-textfield mdl-js-textfield">
         <input class="mdl-textfield__input search-box-mobile" type="text" Placeholder="Buscar...">

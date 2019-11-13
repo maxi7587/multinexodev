@@ -2,7 +2,7 @@
   <span class="mdl-layout-title">Guía de estilo</span>
   <nav class="mdl-navigation">
     {% for section in site.styleguide %}
-      <a class="mdl-navigation__link" href="{{ section.url | prepend: site.baseurl | prepend: site.url }}">{{ section.title }}</a>
+      <a class="mdl-navigation__link" href="{{ section.url | prepend: site.baseurl }}">{{ section.title }}</a>
     {% endfor %}
   </nav>
 </div>

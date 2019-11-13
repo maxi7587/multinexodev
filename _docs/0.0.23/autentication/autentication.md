@@ -12,7 +12,7 @@ Para utilizar la API, tu aplicación deberá ser capaz de enviar el usuario, con
 
 A continuación tienes una representación del flujo de autenticación para identificarte en Multinexo, solicitar un recurso y renovar el Access Token:
 
-![JWT]({{ '/img/autentication/oauth2-diagram.svg' | prepend: site.baseurl | prepend: site.url }}){: .width-100}
+![JWT]({{ '/img/autentication/oauth2-diagram.svg' | prepend: site.baseurl }}){: .width-100}
 
 ## Cómo generar el token
 
