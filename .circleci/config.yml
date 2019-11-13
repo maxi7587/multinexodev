@@ -29,6 +29,9 @@ jobs:
           name: Build project
           command: bundle exec jekyll build
       - run:
+          name: Login in Git
+          command: git config --global user.email "$GH_EMAIL" > /dev/null 2>&1 && git config --global user.name "$GH_NAME" > /dev/null 2>&1
+      - run:
           name: Creating temporal branch
           command: git checkout -b some-branch-that-will-never-exist-in-this-repo && git add . && git commit -m "temporal branch"
       - run:
