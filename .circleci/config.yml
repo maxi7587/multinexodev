@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run:
           name: Clone dev-docs-base
-          command: git clone https://github.com/reyesoft/dev-docs-base.git && cp -r dev-docs-base/ ./
+          command: git clone https://github.com/reyesoft/dev-docs-base.git && cp -r ./dev-docs-base/ ./
       - run:
           name: Install dependencies
           command: bundle install
