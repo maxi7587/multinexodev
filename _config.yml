@@ -1,14 +1,15 @@
 # Site settings
 title: Multinexo Developers
+version: 0.0.23
 email: info@multinexo.com
 description: >
   Documentación de la API de Multinexo. Sistema online de gestión para pequeñas y
   medianas empresas. Impresora fiscal, factura electrónica, stock,
   cuentas corrientes, multiusuario, ¡y más!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://dev.multinexo.com # the base hostname & protocol for your site
+baseurl: "/multinexodev" # the subpath of your site, e.g. /blog/
+url: https://maxi7587.github.io # the base hostname & protocol for your site
 git_address: https://github.com/multinexo
-git_edit_address: https://github.com/multinexo/docs/blob/gh-pages
+git_edit_address: https://github.com/multinexo/multinexodev
 
 # Build settings
 markdown: kramdown
@@ -55,7 +56,7 @@ defaults:
 
 collections:
   docs:
-  #   permalink: /:collection/:path/
+    # permalink: /:collection/:path/
     output: true
 
   styleguide:
