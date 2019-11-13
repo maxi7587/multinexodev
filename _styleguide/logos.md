@@ -7,13 +7,13 @@ En todo lo que hacemos, nuestro objetivo es brindar enfoque y claridad a los equ
 ### Logo color
 El logotipo funciona mejor en su versión multicolor sobre fondo blanco. Además, el logotipo negro también se puede utilizar en fondos de color claro. Para fondos oscuros, el logotipo debe ser siempre blanco, mientras que para fondos claros el logotipo debe ser siempre negro.
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-1-rgb@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-1-rgb@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-2-white-rgb@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-2-white-rgb@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-1-black-rgb@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-horizontal-1-black-rgb@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-vertical-1-rgb@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-vertical-1-rgb@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
 ### Espacio libre
 Para asegurar que los logotipos sean claramente visibles, colóquelos alrededor de ellos con un espacio libre de caracteres, gráficos y otros elementos que puedan
@@ -21,24 +21,24 @@ causar desorden visual.
 
 #### Espacio ideal
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-1@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-1@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-2@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-2@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
 #### Mínimo de espacio libre
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-3@2x.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/Logo-guideline-3@2x.png' | prepend: site.baseurl | prepend: site.url }})
 
 ### Crímenes al usar el logo
 Para mantener la integridad del logotipo de Multinexo, y para promover la consistencia de la marca, por favor no lo utilice mal. Algunos delitos de logotipos se enumeran a continuación.
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-crimes-1.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-crimes-1.png' | prepend: site.baseurl | prepend: site.url }})
 
 No hacer | No hacer | No hacer
 --|--|--
 No usar combinaciones de colores no aprobados | No usar el logo blanco sobre fondos claros | No utilice el logotipo como fondo sin definir su tamaño.
 {: .red-title-table}
 
-![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-crimes-2.png' | prepend: site.baseurl }})
+![RGBMultinexo horizontal 1>]({{ '/img/styleguide/logos/RGBMultinexo-crimes-2.png' | prepend: site.baseurl | prepend: site.url }})
 
 No hacer | No hacer | No hacer
 --|--|--

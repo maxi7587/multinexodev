@@ -8,7 +8,7 @@ sectionid: blog
     <div class="inner-content">
         <h1>Todos los artículos</h1> {% for page in site.posts %}
         <p>
-            <strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong>
+            <strong><a href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a></strong>
             <span>el {{ page.date | date: "%B %e, %Y" }} {% if page.author %} por {{ page.author }}{% endif %}</span>
         </p>
         {% endfor %}
